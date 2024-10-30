@@ -1,0 +1,61 @@
+.justify-content-end{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.align-items-center{
+    display: flex;
+    align-items: center;
+}
+.font-header{
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+
+.subscribe{
+    color: #a0a0a0;
+}
+
+.blog-header-logo{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.search-button{
+    color: #a0a0a0;
+}
+
+.signup-button{
+    width: 60px;
+    font-size: 12px;
+    height: 29px;
+    padding: 0;
+    margin-left: 15px;
+    color: #a0a0a0;
+    background-color: white;
+    outline: none;
+    border: solid 1px black;
+    border-radius: 3px;
+}
+
+
+.categories{
+    color: #a0a0a0;
+    font-size: 15px;
+}
+
+.space-between{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.position-sticky{
+    position: sticky !important;
+    top: 20px;
+}
